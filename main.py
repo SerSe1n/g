@@ -5,7 +5,8 @@ from PyQt5 import uic
 from PyQt5.QtWidgets import QApplication, QTableWidgetItem, QVBoxLayout, QHBoxLayout, \
     QTableWidget, QWidget, QLabel, QPushButton
 
-#code
+
+# code
 class Window(QWidget):
     def __init__(self):
         super().__init__()
